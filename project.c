@@ -19,3 +19,8 @@ struct Cinema
 {
     struct Salons salons[10] ;
 };
+int main()
+{
+
+    return 0;
+}
